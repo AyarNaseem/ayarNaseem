@@ -1,72 +1,7 @@
-<div align="center">
 
-# Ayar Naseem
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayar_nasiem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayar-naseem ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay4r.dev@gmail.com) 
 
-Frontend Developer building modern web experiences with React & TypeScript.
-
-<p>
-  <a href="https://linkedin.com/in/ayar-naseem">LinkedIn</a> •
-  <a href="https://instagram.com/ayar_nasiem">Instagram</a> •
-  <a href="mailto:ay4r.dev@gmail.com">Email</a>
-</p>
-
-</div>
-
-<br>
-
-## About
-
-I enjoy creating fast, responsive, and accessible web applications with a strong focus on user experience and clean architecture.
-
-My primary stack revolves around React, TypeScript, Vite, Redux, and modern frontend tooling.
-
----
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,redux,vite,nodejs,git,github,vercel,netlify" />
-</p>
-
----
-
-## GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayarNaseem&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayarNaseem&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
-## Featured Projects
-
-### Project Name
-
-Short description.
-
-**Tech:** React · TypeScript · Vite
-
-🔗 Repository Link
-
-<br>
-
-### Project Name
-
-Short description.
-
-**Tech:** React · Redux · Node.js
-
-🔗 Repository Link
-
----
-
-## Contact
-
-* LinkedIn: linkedin.com/in/ayar-naseem
-* Email: [ay4r.dev@gmail.com](mailto:ay4r.dev@gmail.com)
-
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
