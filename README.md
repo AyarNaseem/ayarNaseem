@@ -1,3 +1,18 @@
+# Hi 👋, I'm Ayar Naseem
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+
+<br/>
+
+### 🚀 Frontend Developer from Iraq
+
+Passionate about building fast, modern, and user-friendly web applications using React, TypeScript, and modern frontend technologies.
+
+</div>
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayar_nasiem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayar-naseem ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay4r.dev@gmail.com) 
