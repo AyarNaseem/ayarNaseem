@@ -1,186 +1,146 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:0891B2&height=250&section=header&text=Ayar%20Naseem&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=FRONT-END%20DEVELOPER%20%7C%20REACT%20%26%20TYPESCRIPT&descSize=16&descAlignY=59&animation=fadeIn"
-    width="100%"
-    alt="Ayar Naseem — Front-End Developer"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1600&color=67E8F9&center=true&vCenter=true&width=650&height=45&lines=Clear+interfaces.+Connected+systems.;Building+front-end+experiences+at+OXERO.;Thoughtful+design%2C+from+desktop+to+mobile."
-    alt="Clear interfaces. Connected systems."
-  />
-</p>
+# Hi 👋, I'm Ayar Naseem
 
-<p align="center">
-  <a href="https://linkedin.com/in/ayar-naseem">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ay4r.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" />
-  </a>
-  <a href="https://instagram.com/ayar_nasiem">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=F0ABFC" alt="Instagram" />
-  </a>
-</p>
+### Turning complex systems into clear experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1200&color=00C7B7&center=true&vCenter=true&width=680&height=65&lines=Frontend+Developer+at+OXERO;React+%26+TypeScript+Developer;Connected+Systems.+Thoughtful+Interfaces.;Building+Modern+Web+Experiences." alt="Frontend Developer at OXERO — React and TypeScript" />
+
+<br />
+
+Frontend developer based in **Kurdistan, Iraq**.<br />
+I build responsive web applications with a focus on<br />
+**clear interfaces, reusable components, and thoughtful interactions.**
+
+<br />
+
+<a href="https://linkedin.com/in/ayar-naseem">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:ay4r.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00A99D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/ayar_nasiem">
+  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
+
+<br />
 
 ---
 
-## About me
+<div align="center">
 
-I'm **Ayar Naseem**, a front-end developer based in **Kurdistan, Iraq**.
+## Where I’m building
 
-I build web interfaces with **React and TypeScript**, focusing on
-responsive layouts, reusable components, and interactions that help
-people navigate complex applications with confidence.
+### OXERO
+**Frontend Developer · December 2025 — Present**
 
-My current work brings together two things I care about:
-**thoughtful interface design** and **practical business software**.
+Developing interfaces for a business platform where<br />
+multiple systems work together as one connected experience.
 
-## Current work · OXERO
+<br />
 
-<img src="https://img.shields.io/badge/FRONT--END_DEVELOPER-6D28D9?style=flat-square" alt="Front-End Developer" />
-<img src="https://img.shields.io/badge/DEC_2025_—_PRESENT-164E63?style=flat-square" alt="December 2025 to present" />
+<img src="https://img.shields.io/badge/ERP-0F766E?style=for-the-badge" alt="ERP" />
+<img src="https://img.shields.io/badge/Inventory-0891B2?style=for-the-badge" alt="Inventory" />
+<img src="https://img.shields.io/badge/Storefronts-2563EB?style=for-the-badge" alt="Storefronts" />
+<img src="https://img.shields.io/badge/Landing_Pages-7C3AED?style=for-the-badge" alt="Landing pages" />
+<img src="https://img.shields.io/badge/POS-C026D3?style=for-the-badge" alt="Point of sale" />
 
 <br /><br />
 
-At **OXERO**, I develop front-end interfaces for a unified business
-platform that connects ERP, inventory management, online stores,
-landing pages, and point-of-sale systems.
+**Different systems. Shared workflows. One platform.**
 
-It is a **system of connected systems**: multiple business tools
-working together within one platform.
+My work focuses on responsive interfaces and dashboards<br />
+across ERP, inventory, stores, landing pages, and point-of-sale systems.
 
-| Connected systems | Front-end focus |
-| :--- | :--- |
-| ERP & inventory management | Business interfaces and data-driven dashboards |
-| Online stores & landing pages | Responsive storefront and presentation interfaces |
-| Point-of-sale systems | Clear interfaces for day-to-day business workflows |
+<sub>Currently employed at OXERO · Not seeking new roles</sub>
 
-**Currently employed at OXERO · Not seeking new roles**
+</div>
 
-## Selected projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Movie Watchlist</h3>
-      <p>
-        A film discovery application that lets users search the
-        OMDB API and curate a personal watchlist.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9" alt="React" />
-        <img src="https://img.shields.io/badge/OMDB_API-111827?style=flat-square&logoColor=white" alt="OMDB API" />
-      </p>
-      <p>
-        <a href="https://use-watchlist-ochre.vercel.app/"><strong>Live demo ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/AyarNasiem/useWatchlist">Source code</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Quiz App</h3>
-      <p>
-        An interactive quiz experience with instant scoring
-        and feedback across a range of topics.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9" alt="React" />
-        <img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css&logoColor=C4B5FD" alt="CSS" />
-      </p>
-      <p>
-        <a href="https://quiz-app-sage-nine.vercel.app/"><strong>Live demo ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/AyarNasiem/Quiz-App">Source code</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / Virtualr</h3>
-      <p>
-        A responsive landing page for a virtual reality product,
-        built with React and Tailwind CSS.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=67E8F9" alt="Tailwind CSS" />
-      </p>
-      <p>
-        <a href="https://virtualr-pi-five.vercel.app/"><strong>Live demo ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/AyarNasiem/Virtualr">Source code</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / Personal Portfolio</h3>
-      <p>
-        A custom portfolio bringing together my projects,
-        professional experience, and technical background.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=C4B5FD" alt="Vite" />
-      </p>
-      <p>Custom design · Responsive layouts · Desktop lighting effect</p>
-    </td>
-  </tr>
-</table>
-
-## Technical toolkit
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,ts,js,html,css,redux,vite,npm,vercel,netlify&theme=dark&perline=10"
-    alt="React, TypeScript, JavaScript, HTML, CSS, Redux, Vite, npm, Vercel, and Netlify"
-  />
-</p>
-
-| Area | Technologies |
-| :--- | :--- |
-| Front-end | React, TypeScript, JavaScript |
-| Styling | HTML, CSS, Tailwind CSS |
-| State management | Redux |
-| Tooling | Vite, npm |
-| Deployment | Vercel, Netlify |
-
-## How I approach development
-
-**Clarity** — Make navigation, actions, and feedback easy to understand.
-
-**Consistency** — Build reusable components and coherent interface patterns.
-
-**Responsiveness** — Treat mobile layouts as part of the core experience.
-
-**Maintainability** — Keep code readable and structure it for future changes.
-
-<details>
-  <summary><strong>GitHub activity</strong></summary>
-  <br />
-  <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9&text_color=CBD5E1&hide_rank=true"
-      alt="Ayar's GitHub activity"
-    />
-  </p>
-</details>
+<br />
 
 ---
 
-<p align="center">
-  <strong>Have something to share about front-end development or business systems?</strong>
-  <br /><br />
-  <a href="mailto:ay4r.dev@gmail.com">Email me</a>
-  &nbsp; / &nbsp;
-  <a href="https://linkedin.com/in/ayar-naseem">Connect on LinkedIn</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:0891B2&height=110&section=footer"
-    width="100%"
-    alt=""
-  />
-</p>
+## My development toolkit
+
+The technologies behind my interfaces.
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux&theme=dark" alt="React, TypeScript, JavaScript, Redux" />
+
+**Application development**
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" alt="HTML, CSS, Tailwind CSS" />
+
+**Interface & styling**
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=vite,npm,vercel,netlify&theme=dark" alt="Vite, npm, Vercel, Netlify" />
+
+**Tooling & deployment**
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+## Things I’ve built
+
+### 🎬 Movie Watchlist
+Search films. Discover favorites. Build your watchlist.
+
+`React` · `CSS` · `OMDB API`
+
+[Live experience ↗](https://use-watchlist.netlify.app/) ·
+[Explore the code](https://github.com/AyarNasiem/useWatchlist)
+
+<br />
+
+### 🧠 Quiz App
+An interactive quiz experience with instant scoring and feedback.
+
+`React` · `CSS`
+
+[Live experience ↗](https://quiz-app-sage-nine.vercel.app/) ·
+[Explore the code](https://github.com/AyarNasiem/Quiz-App)
+
+<br />
+
+### 🌌 Virtualr
+A responsive landing page for a virtual reality product.
+
+`React` · `Tailwind CSS`
+
+[Live experience ↗](https://virtualr-pi-five.vercel.app/) ·
+[Explore the code](https://github.com/AyarNasiem/Virtualr)
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+### Thoughtful interfaces start with the details.
+
+Readable code · Consistent components · Responsive layouts
+
+<br />
+
+Want to talk about frontend development or connected systems?
+
+**[Let’s connect on LinkedIn](https://linkedin.com/in/ayar-naseem)**
+
+</div>
