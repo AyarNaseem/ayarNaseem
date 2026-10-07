@@ -1,22 +1,52 @@
-# Hi 👋, I'm Ayar Naseem
+# Ayar Naseem
+### Front-End Developer · React & TypeScript
 
-<div align="center">
+Building clear interfaces for complex systems.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+I'm a front-end developer based in Kurdistan, Iraq. I focus on
+responsive web applications, thoughtful interactions, and interfaces
+that make everyday tasks easier.
 
-<br/>
-
-### 🚀 Frontend Developer from Iraq
-
-Passionate about building fast, modern, and user-friendly web applications using React, TypeScript, and modern frontend technologies.
-
-</div>
+[LinkedIn](https://linkedin.com/in/ayar-naseem) ·
+[Email](mailto:ay4r.dev@gmail.com) ·
+[Instagram](https://instagram.com/ayar_nasiem)
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayar_nasiem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayar-naseem ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay4r.dev@gmail.com) 
+### Currently at OXERO
+**Front-End Developer · December 2025 — Present**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Working on a connected business platform that brings together ERP,
+inventory management, online stores, landing pages, and point-of-sale
+systems.
+
+My work focuses on the front-end experience across these connected
+systems—turning complex workflows into clear, usable interfaces.
+
+Currently employed and not seeking new roles.
+
+### Selected projects
+
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **Movie Watchlist** | Search films and build a personal watchlist using the OMDB API. | [Code](https://github.com/AyarNasiem/useWatchlist) · [Live](https://use-watchlist.netlify.app/) |
+| **Quiz App** | An interactive quiz experience with scoring and feedback. | [Code](https://github.com/AyarNasiem/Quiz-App) · [Live](https://quiz-app-sage-nine.vercel.app/) |
+| **Virtualr** | A responsive landing page for a virtual reality product. | [Code](https://github.com/AyarNasiem/Virtualr) · [Live](https://virtualr-pi-five.vercel.app/) |
+
+### Toolkit
+
+**Interfaces** — React, TypeScript, JavaScript, HTML, CSS  
+**State management** — Redux  
+**Development & deployment** — Vite, npm, Vercel, Netlify
+
+### What matters in my work
+
+- Clear navigation and predictable interactions.
+- Responsive layouts that work comfortably on smaller screens.
+- Readable code and reusable components.
+- Accessibility and performance as part of the implementation.
+
+---
+
+Interested in talking about front-end development or connected
+business systems? [Get in touch](mailto:ay4r.dev@gmail.com).
