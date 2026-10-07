@@ -102,7 +102,7 @@ Search films. Discover favorites. Build your watchlist.
 
 `React` · `CSS` · `OMDB API`
 
-[Live experience ↗](https://use-watchlist.netlify.app/) ·
+[Live experience ↗](https://use-watchlist-ochre.vercel.app/) ·
 [Explore the code](https://github.com/AyarNasiem/useWatchlist)
 
 <br />
