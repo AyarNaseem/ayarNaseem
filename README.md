@@ -69,7 +69,7 @@ Search films through the OMDB API and curate a personal watchlist.
 
 **React · CSS · OMDB API**
 
-[Explore the app ↗](https://use-watchlist.netlify.app/)  
+[Explore the app ↗](https://use-watchlist-ochre.vercel.app/)  
 [View source ↗](https://github.com/AyarNasiem/useWatchlist)
 
 </td>
